@@ -6,7 +6,7 @@
 </head>
 <body>
 	<?php
-		echo "Dojo Heroku Daniel Rodriguez";
+		echo "Dojo Heroku Daniel Rodriguez Garcia";
 	?>
 </body>
 </html>
